@@ -1,6 +1,6 @@
-# 50 Open-Source & Privacy-Oriented Alternatives to Popular Apps and Services
+# Open-Source & Privacy-Oriented Alternatives to Popular Apps and Services
 
-In today’s digital age, privacy and security are more important than ever. Many popular apps and services collect and monetize your data, but there are open-source and privacy-focused alternatives that respect your rights. Below is a curated list of **50 alternatives** to help you take back control of your digital life.
+In today’s digital age, privacy and security are more important than ever. Many popular apps and services collect and monetize your data, but there are open-source and privacy-focused alternatives that respect your rights. Below is a curated list of ** alternatives** to help you take back control of your digital life.
 
 ---
 
